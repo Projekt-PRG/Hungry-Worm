@@ -1,1 +1,10 @@
-ballalalalal
+Unsere Idee ist Inspiriert vom Spiele-Klassiker Snake, welches wir alle von den alten 
+Nokia Handys kennen.
+Unser Ziel ist es ein kleines Browser-Spiel zu entwickeln.
+Gesteuert wird es durch 4 Tasten, die den "Wurm" jeweils nach oben, unten, rechts oder links
+lenken sollen.
+Ziel des Spiels ist es die zufällig erscheinenden Punkte zu "fressen" und somit seinen
+Highscore zu steigern. Steuert man gegen den Rand des Spielfelds
+oder frisst sich selbst, ist das Spiel vorbei und der Highscore wird ausgegeben.
+Mit jedem gefressenen Punkt wird der Wurm länger und steigert
+somit automatisch den Schwierigkeitsgrad. 
